@@ -38,6 +38,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 Podemos considerar este projeto como sendo com uma parte:
 1. Front End (pasta web)  
+2. Back End (pasta web)  
 
 ### Pré-requisitos
 
