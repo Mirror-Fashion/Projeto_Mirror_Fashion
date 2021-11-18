@@ -46,7 +46,7 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
 [Git](https://git-scm.com)
 Além disto, é bom ter um editor para trabalhar com o código como [VSCode][vscode]
 
-### 🧭 Rodando toda a aplicação web (Front End)
+### 🧭 Rodando toda a aplicação web (Front End) mirrorfashion.diariodoaluno.com
 
 ```bash 
 # Clone este repositório
